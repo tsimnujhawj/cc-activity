@@ -1,0 +1,19 @@
+{
+  "name": "cablecast-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "inquirer": "^6.2.1",
+    "papaparse": "^4.6.2",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1"
+  }
+}
